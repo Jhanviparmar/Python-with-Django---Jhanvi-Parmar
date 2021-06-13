@@ -1,0 +1,20 @@
+•	PYTHON oop’s Concepts:
+>	CLASS:
+   A class is blue print for the object. Classes are defined by the “Class” keyword.
+>	 SELF:
+   This parameter refers to the object which invokes the method.
+When you create new object the self parameter in the __init__ method is automatically set to reference the object you have just created.
+>	 Python Constructors:
+A constructor is a class function that instantiates an object to predefined values.
+--There are two types of Constuctor:
+1. Default Constructor
+2. Parameterized Constructor
+
+>	INHERITENCE:
+Inheritance allows programmer to create a general class first then later extend it to more specialized class.
+--There are five types of inheritance:
+1. Single-level  Inheritance:
+2. Multi-level Inheritance:
+3. Multiple Inheritance:
+4. Hierarchical Inheritance:
+5. Hybrid Inheritance:

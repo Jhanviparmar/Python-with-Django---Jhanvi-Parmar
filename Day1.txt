@@ -1,0 +1,10 @@
+Online Internship - Python With Django
+Akash Technolabs - Online mode
+Start Date - 25-05-2021
+Day-01
+On very first day of my Internship, we were introduced by our mentor Mr.Akash Padhiyar and Ms. Devanshi.
+We were given the brief idea about the company and then about the Internship. 
+We would be taught python core for one week and then django framework in the next following week.
+Today we were instructed how to setup python on our device and about some IDE or the plateforms where we can write python code.
+Task-01
+I was given a task for making a small webpage with registration form using basic HTML and CSS.   

@@ -1,0 +1,15 @@
+Day-03
+Today we were taught by Devanshi ma'am about python's in built function called input() and print().
+We covered topics such as conditional statements, loops, pass function, range() and about break and continue.
+Conditional Statements :
+1. if statements
+2. if....else statements
+3. if...elif...else statements
+4.Nested if statements
+Loops :
+1. While loop
+2. For loop
+3. Nested loop
+
+Task-03
+We were given number of pragrammes to execute with using input functions, conditional and loop statements. 

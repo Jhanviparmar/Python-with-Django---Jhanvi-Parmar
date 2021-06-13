@@ -1,0 +1,11 @@
+Day-02
+Today we learnt about python comments, variables and datatypes.
+Single line comments are shown as "#" at starting of line whereas multiline comments can be done by using """ or ''' at start and end of lines.
+In python, unlike other langueges like c or java, we don't have to specify the variable type.
+Python itself understands that which type of variable has been declared.
+There are mainly 5 types of datatypes in python listed below:
+1. Numbers
+2. String
+3. List - mutable
+4. Tuple - immutable
+5. Dictionary 

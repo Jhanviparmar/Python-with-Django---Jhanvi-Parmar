@@ -1,0 +1,35 @@
+Day-04
+Today we got to know about python functions mainly about the syntax like function name, indentation and function body.
+>def keyword marks the start of function header.
+>A function name uniquely identify it.
+>A colon(:) to mark the end of function header.
+>An optional return statement to return a value from the function.
+
+-->There are three types of python function arguments using which we can call functions.
+1. Default Arguments
+2. Keyword Arguments
+3. Variable-length Arguments.
+    >>An Astrisk(*) is placed for non-keyworded variable lengths.
+    >>Double Astrisks(**) is placed for keyworded variable lengths.
+
+-->Scope of variables:
+1. Global variables
+2. Local variables
+>>>Variables those are defined inside a function body is called local scope whereas of outside are called global scope.
+ 
+--> Indentation plays crucial role in python prgramming. Without proper identation there will be compile time error.
+
+-->Modules in python:
+>Modules are used to break down large programs into small manageble and organised files.
+>import is the main and heavily used python module.
+
+-->Operators in Python:
+1. Arithmetic Operators ( +, -, *, /, %, //, ** )
+2. Comparison Operators ( >, <, ==, !=, >=, <= )
+3. Logical Operators ( and, or, not )
+4. Assignment Operators ( =, +=, -=, *=, /=, %=, //=, **=)
+5. Membership Operators ( in, not in )
+6. Identity Operators (is, is not )
+
+TASK-04
+We were given number of programmes to execute with the use of fuctions, modules, scope and operators.
